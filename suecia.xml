@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV4 Fotboll">
+    <display-name lang="sv">TV4 Fotboll</display-name>
+    <icon src="https://new.static.tv.nu/227354796" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Hockey">
+    <display-name lang="sv">TV4 Hockey</display-name>
+    <icon src="https://new.static.tv.nu/227355459" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sportkanalen">
+    <display-name lang="sv">TV4 Sportkanalen</display-name>
+    <icon src="https://new.static.tv.nu/227353196" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 1">
+    <display-name lang="sv">TV4 Sport Live 1</display-name>
+    <icon src="https://new.static.tv.nu/227356274" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 2">
+    <display-name lang="sv">TV4 Sport Live 2</display-name>
+    <icon src="https://new.static.tv.nu/227356781" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 3">
+    <display-name lang="sv">TV4 Sport Live 3</display-name>
+    <icon src="https://new.static.tv.nu/227360877" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 4">
+    <display-name lang="sv">TV4 Sport Live 4</display-name>
+    <icon src="https://new.static.tv.nu/227361602" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <programme start="20231211194000 +0000" stop="20231211220000 +0000" channel="TV4 Fotboll">
+    <title lang="sv">Cagliari Calcio - Sassuolo Calcio</title>
+  </programme>
+  <programme start="20231211220000 +0000" stop="20231212001500 +0000" channel="TV4 Fotboll">
+    <title lang="sv">Empoli FC - US Lecce</title>
+  </programme>
+  <programme start="20231212001500 +0000" stop="20231212060000 +0000" channel="TV4 Fotboll">
+    <title lang="sv">Cagliari Calcio - Sassuolo Calcio</title>
+  </programme>
+  <programme start="20231211183000 +0000" stop="20231211210000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Nybro Vikings - Almtuna IS</title>
+  </programme>
+  <programme start="20231211210000 +0000" stop="20231211233000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Skellefteå AIK - Malmö Redhawks</title>
+  </programme>
+  <programme start="20231211233000 +0000" stop="20231212014500 +0000" channel="TV4 Hockey">
+    <title lang="sv">VIK Västerås HK - Nybro Vikings</title>
+  </programme>
+  <programme start="20231212014500 +0000" stop="20231212060000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Östersunds IK - Kalmar HC</title>
+  </programme>
+  <programme start="20231211190000 +0000" stop="20231211210000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">The Cave of Adullam</title>
+  </programme>
+  <programme start="20231211210000 +0000" stop="20231211213000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Vinnare V64</title>
+  </programme>
+  <programme start="20231211213000 +0000" stop="20231211223000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">C More dokumentär</title>
+  </programme>
+  <programme start="20231211223000 +0000" stop="20231211230000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Sverige springer</title>
+  </programme>
+  <programme start="20231211230000 +0000" stop="20231211233000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga Fans</title>
+  </programme>
+  <programme start="20231211233000 +0000" stop="20231212003000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Fiskedestination</title>
+  </programme>
+  <programme start="20231212003000 +0000" stop="20231212010000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Extreme E</title>
+  </programme>
+  <programme start="20231212010000 +0000" stop="20231212041000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231212041000 +0000" stop="20231212092000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231211170000 +0000" stop="20231211195500 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231211195500 +0000" stop="20231211221500 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Rayo Vallecano - Celta de Vigo</title>
+  </programme>
+  <programme start="20231211221500 +0000" stop="20231212010000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Rayo Vallecano - Celta de Vigo</title>
+  </programme>
+  <programme start="20231212010000 +0000" stop="20231212050000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Memphis Grizzlies - Dallas Mavericks</title>
+  </programme>
+  <programme start="20231211132000 +0000" stop="20231211202800 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">Kansas City Chiefs - Buffalo Bills</title>
+  </programme>
+  <programme start="20231211202800 +0000" stop="20231212042800 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231212042800 +0000" stop="20231212122800 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231211163600 +0000" stop="20231211203600 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231211203600 +0000" stop="20231212043600 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231212043600 +0000" stop="20231212123600 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231211193000 +0000" stop="20231211233000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231211233000 +0000" stop="20231212033000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231212033000 +0000" stop="20231212073000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+</tv>
